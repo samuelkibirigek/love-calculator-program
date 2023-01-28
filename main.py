@@ -28,5 +28,3 @@ else:
     print(f"Your score is {final}")
 
 
-window.mainloop()
-
